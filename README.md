@@ -1,7 +1,7 @@
 # Pico Coffee Machine
 
 This project aims to add a PID controller (and other features) to a `Elektra Cappuccina` coffee machine
-(and possibly any other single heater manual coffee machine) using a Raspberry PI Pico.
+(and possibly any other single heater manual coffee machine) using a Raspberry Pi Pico.
 
 The project is based on [ArduinoCoffeeMachine](https://github.com/ilcardella/ArduinoCoffeeMachine) which uses an Arduino Nano.
 Both projects are based on [lib_coffee_machine](https://github.com/ilcardella/lib_coffee_machine) which is a C++ library providing an abstraction of a generic coffee machine.
