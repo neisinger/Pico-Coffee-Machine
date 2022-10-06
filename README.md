@@ -1,6 +1,6 @@
 # Pico Coffee Machine
 
-This project aims to add a PID controller (and other features) to a `Gaggia Paros` coffee machine
+This project aims to add a PID controller (and other features) to a `Elektra Cappuccina` coffee machine
 (and possibly any other single heater manual coffee machine) using a Raspberry PI Pico.
 
 The project is based on [ArduinoCoffeeMachine](https://github.com/ilcardella/ArduinoCoffeeMachine) which uses an Arduino Nano.
